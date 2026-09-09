@@ -1,4 +1,4 @@
-package StartersContest.STARTERS54;
+package StartersContest.STARTERS254;
 
 import java.io.BufferedReader;
 import java.io.IOException;
