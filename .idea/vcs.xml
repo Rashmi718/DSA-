@@ -4,7 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/codechef" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/codeforces" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/leetcode" vcs="Git" />
   </component>
 </project>
